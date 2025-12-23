@@ -1,4 +1,4 @@
-# ᗪhєєrαj ᗪ Ɲαчαk
+# Đhєєrαj Đ Ɲαчαk
 
 # 💫 About Me:
 I'm a student developer from Udupi, Karnataka, passionate about coding, design, and creating 'COOL Stuff'. <br>I love exploring new technologies, experimenting with ideas, and building projects that are both useful and visually appealing. <br>I enjoy solving problems through code and constantly improving my skills by working on real-world applications.
