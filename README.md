@@ -1,4 +1,6 @@
-# Đhєєrαj Đ Ɲαчαk
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/be8395f2-6c51-41be-ab37-c9d29ebd6bf3" />
+
+
 
 # 💫 About Me:
 I'm a student developer from Udupi, Karnataka, passionate about coding, design, and creating 'COOL Stuff'. <br>I love exploring new technologies, experimenting with ideas, and building projects that are both useful and visually appealing. <br>I enjoy solving problems through code and constantly improving my skills by working on real-world applications.
