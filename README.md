@@ -1,4 +1,4 @@
-<img width="1983" height="793" alt="DHEERAJ D NAYAK" src="https://github.com/user-attachments/assets/42e578f0-d9e4-4b2a-a144-468de843583c" />
+<img style="border-radius: 200px; border: 2px solid #292D33;" width="1983" height="793" alt="DHEERAJ D NAYAK" src="https://github.com/user-attachments/assets/42e578f0-d9e4-4b2a-a144-468de843583c" />
 
 
 
